@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Belles' Rose",
+      "image": "https://i.etsystatic.com/11477992/r/il/a3e88d/1747171638/il_794xN.1747171638_cylo.jpg",
+      "price": 25,
+      "id": 8
+    },
+    {
+      "name": "Bulbasaur",
+      "image": "No Image",
+      "price": 15.75,
+      "id": 9
     }
   ]
 }
